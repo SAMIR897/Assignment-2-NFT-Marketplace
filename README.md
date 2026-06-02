@@ -41,3 +41,7 @@ anchor test --validator legacy
 All 8 tests passing:
 
 ![Test Results](screenshots/test-results.png)
+
+### Additional Screenshot
+
+![Additional Screenshot](screenshots/additional-screenshot.png)
